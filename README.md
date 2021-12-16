@@ -19,6 +19,9 @@ Puis en général après, vient quelques modifications selon la personne, genre 
 
 SEO
 Pensez à FB, Insta
+Mot clé -> Index(chez Google)=> pertinences des mots dans le site
+Expérience utilisateur
+Nombre de liens qui pointent (pas forcemment accroché) à notre site
 
 Doodle: trouver une date commune pôur sonder une famille et amis la date qui arrange tout le monde
 Appetia: faire un menu pour tous le sgoûts (végé, diabète, allergies
