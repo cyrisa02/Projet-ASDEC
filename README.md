@@ -23,6 +23,12 @@ Mot clé -> Index(chez Google)=> pertinences des mots dans le site
 Expérience utilisateur
 Nombre de liens qui pointent (pas forcemment accroché) à notre site
 
+Pour améliorer le SEO
+    Concevoir l'arborescence de son site web avec des rubriques et pages
+    Optimiser le maillage des liens entre les pages du site -> fil d'Ariane
+    Optimiser les URL de ses pages
+    Sitemap (cartographie du contenu d'un site web, fihcier XML) et robots.txt (avertit les moteurs de ne pas regarder certaines pages)
+
 Doodle: trouver une date commune pôur sonder une famille et amis la date qui arrange tout le monde
 Appetia: faire un menu pour tous le sgoûts (végé, diabète, allergies
 A qui le tour: se répartir les tâches
