@@ -17,6 +17,9 @@ Projet Cahier des Charges
 -Finalisation de l'appli
 Puis en général après, vient quelques modifications selon la personne, genre colorimétrie, déplacement d'un bouton, d'une info etc
 
+SEO
+Pensez à FB, Insta
+
 Doodle: trouver une date commune pôur sonder une famille et amis la date qui arrange tout le monde
 Appetia: faire un menu pour tous le sgoûts (végé, diabète, allergies
 A qui le tour: se répartir les tâches
