@@ -16,4 +16,10 @@ Projet Cahier des Charges
 -Tests de sécurité (surtout sous CMS)
 -Finalisation de l'appli
 Puis en général après, vient quelques modifications selon la personne, genre colorimétrie, déplacement d'un bouton, d'une info etc
+
+Doodle: trouver une date commune pôur sonder une famille et amis la date qui arrange tout le monde
+Appetia: faire un menu pour tous le sgoûts (végé, diabète, allergies
+A qui le tour: se répartir les tâches
+Tricount: se partager les frais
+Santa Radio: choisir la musique
  
