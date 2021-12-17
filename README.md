@@ -28,6 +28,15 @@ Pour améliorer le SEO
     Optimiser le maillage des liens entre les pages du site -> fil d'Ariane
     Optimiser les URL de ses pages
     Sitemap (cartographie du contenu d'un site web, fihcier XML) et robots.txt (avertit les moteurs de ne pas regarder certaines pages)
+    
+    1/ Nom des fichiers corrects avec tiret du 6
+2/ Nom de l’herbergeur
+3/ Fil d’Ariane
+4/ Sitemap (cartographie du contenu d'un site web, fihcier XML) et robots.txt (avertit les moteurs de ne pas regarder certaines pages)
+5/ Google Business + FB
+6/ Footer avec mots clé
+
+
 
 Doodle: trouver une date commune pôur sonder une famille et amis la date qui arrange tout le monde
 Appetia: faire un menu pour tous le sgoûts (végé, diabète, allergies
